@@ -10,6 +10,7 @@
 📫 How to reach me **shahsanket31@gmail.com**
 
  ⚡ Fun fact **I think I am Solo Traveller**<br/>
+ <br/>
  🔍 Research Scholar specializing in Machine Learning
 
 <h3 align="left">Connect with me:</h3>
