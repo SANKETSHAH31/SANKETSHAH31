@@ -1,4 +1,4 @@
-![image](https://github.com/SANKETSHAH31/SANKETSHAH31/assets/8721150/92397380-20c5-4e7f-8440-7e155cc91a1f)<h1 align="center">Hi 👋, I'm Sanket Shah</h1>
+<h1 align="center">Hi 👋, I'm Sanket Shah</h1>
 <h3 align="center">A passionate Machine Learning from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
